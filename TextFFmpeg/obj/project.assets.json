@@ -28370,11 +28370,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\singh\\source\\repos\\TextFFmpeg\\TextFFmpeg\\TextFFmpeg.csproj",
-      "projectName": "TextFFmpeg",
-      "projectPath": "C:\\Users\\singh\\source\\repos\\TextFFmpeg\\TextFFmpeg\\TextFFmpeg.csproj",
+      "projectUniqueName": "C:\\Users\\singh\\source\\repos\\TestFFmpeg\\TextFFmpeg\\TestFFmpeg.csproj",
+      "projectName": "TestFFmpeg",
+      "projectPath": "C:\\Users\\singh\\source\\repos\\TestFFmpeg\\TextFFmpeg\\TestFFmpeg.csproj",
       "packagesPath": "C:\\Users\\singh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\singh\\source\\repos\\TextFFmpeg\\TextFFmpeg\\obj\\",
+      "outputPath": "C:\\Users\\singh\\source\\repos\\TestFFmpeg\\TextFFmpeg\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

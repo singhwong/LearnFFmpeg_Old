@@ -1,1 +1,1 @@
-C:\Users\singh\source\repos\TextFFmpeg\TextFFmpeg\TextFFmpeg.csproj;x86
+C:\Users\singh\source\repos\TestFFmpeg\TextFFmpeg\TestFFmpeg.csproj;x86
