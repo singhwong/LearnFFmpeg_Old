@@ -1,0 +1,1 @@
+C:\Users\singh\source\repos\TextFFmpeg\TextFFmpeg\TextFFmpeg.csproj;x86
